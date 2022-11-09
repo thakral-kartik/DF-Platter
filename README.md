@@ -1,5 +1,5 @@
 # DF-Platter
-The repository contains code for CVPR 2023 paper titled - "DF-Platter: Multi-face Heterogenous Deepfake Dataset. The submission number of our paper is 10902.
+The repository contains code for CVPR 2023 paper with submission number 10902.
 
 ## Installation
 ```shell
