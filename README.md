@@ -1,4 +1,4 @@
-# DF-Platter
+# Deepfake Dataset
 The repository contains code for CVPR 2023 paper with submission number 10902.
 
 ## Installation
